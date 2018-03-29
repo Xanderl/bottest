@@ -52,5 +52,5 @@ async def on_message(message):
 
 
 
-#this needs to be at the bottom of the script
+#this needs to be at the bottom of the script PLEASE dont use the long string of letters and numbers use your own.
 bot.run("NDI4NjEzOTAzOTY3MzIyMTEy.DZ2PxA.wTjxxeVd2LsTCuNMnDn-hEcoBxI")
